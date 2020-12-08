@@ -1,0 +1,21 @@
+textarea{
+
+    height: 50px;
+    width: 70%;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+}
+#translate-btn{
+    margin: 1rem;
+    padding: 0.5rem;
+color: blueviolet;
+}
+
+h1{
+
+margin: auto;
+text-align: 40%;
+padding-bottom: 1rem;
+
+}
