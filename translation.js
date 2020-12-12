@@ -6,7 +6,7 @@ var serverURL = "https://api.funtranslations.com/translate/minion.json"
 
 
 function TranslationURL(input) {
-    return serverURL + "?" + "text=" + input
+    return serverURL + "?" + "text=" + input;
 }
 
 function clickHandler() {
@@ -20,4 +20,4 @@ function clickHandler() {
            })
 
 };
-btnTranslate.addEventListener("click", clickHandler)
+btnTranslate.addEventListener("click", clickHandler);

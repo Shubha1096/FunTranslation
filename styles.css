@@ -68,3 +68,8 @@ footer p {
 
 font-size: x-large;
 }
+
+::placeholder{
+    font-size: small;
+    
+}
